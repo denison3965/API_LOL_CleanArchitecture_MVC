@@ -1,0 +1,265 @@
+[
+    {
+        "nome": "Kaisa",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
+        "funcao": "",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Kaisa_Passive.png",
+            "nome": "SEGUNDA PELE"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Kaisa_Passive.png",
+            "nome":"CHUVA ICATHIANA"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/KaisaW.png",
+            "nome":"EXPLORADORA DO VAZIO"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/KaisaW.png",
+            "nome":"SOBRECARGA"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/KaisaR.png",
+            "nome":"INSTINTO ASSASSINO"
+        }
+    },
+    {
+        "nome": "Viego",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg",
+        "funcao": "",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Viego_Passive.RuinedKing.png",
+            "nome": "DOMINAÇÃO MONÁRQUICA"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ViegoQ.png",
+            "nome":"ESPADA DO REI DESTRUÍDO"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ViegoW.png",
+            "nome":"POSSE ESPECTRAL"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ViegoE.png",
+            "nome":"DOMÍNIO ATORMENTADO"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ViegoR.png",
+            "nome":"DESTRUIDOR DE CORAÇÕES"
+        }
+    },
+
+
+    {
+        "nome": "Azir",
+        "funcao": "Mago",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Azir_Passive.png",
+            "nome": "LEGADO DE SHURIMA"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AzirQWrapper.png",
+            "nome":"AREIAS DA CONQUISTA"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AzirW.png",
+            "nome":"SURJA!"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AzirEWrapper.png",
+            "nome":"AREIAS OSCILANTES"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AzirR.png",
+            "nome":"DECRETO DO IMPERADOR"
+        }
+    },
+
+    {
+        "nome": "Akali",
+        "funcao": "Assassino",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Akali_P.png",
+            "nome": "MARCA DO ASSASSINO"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AkaliQ.png",
+            "nome":"GOLPE DOS CINCO PONTOS"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AkaliW.png",
+            "nome":"PROTEÇÃO DO CREPÚSCULO"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AkaliE.png",
+            "nome":"INVESTIDA SHURIKEN"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/AkaliR.png",
+            "nome":"EXECUÇÃO PERFEITA"
+        }
+    },
+
+    {
+        "nome": "Thresh",
+        "funcao": "Suporte",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Thresh_Passive.png",
+            "nome": "CONDENAÇÃO"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ThreshQ.png",
+            "nome":"SENTENÇA"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ThreshW.png",
+            "nome":"PASSAGEM SOMBRIA"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ThreshE.png",
+            "nome":"ESFOLAR"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ThreshRPenta.png",
+            "nome":"A CAIXA"
+        }
+    },
+
+    {
+        "nome": "Zed",
+        "funcao": "Assassino",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/shadowninja_P.png",
+            "nome": "DESPREZO PELOS FRACOS"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ZedQ.png",
+            "nome":"SHURIKEN LAMINADO"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ZedW.png",
+            "nome":"SOMBRA VIVA"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ZedE.png",
+            "nome":"CORTE SOMBRIO"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/ZedR.png",
+            "nome":"MARCA FATAL"
+        }
+    },
+
+    {
+        "nome": "Fiora",
+        "funcao": "Lutadora",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Fiora_P.png",
+            "nome": "DANÇA DA DUELISTA"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FioraQ.png",
+            "nome":"ESTOCADA"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FioraW.png",
+            "nome":"RIPOSTAR"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FioraE.png",
+            "nome":"ESGRIMA"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FioraR.png",
+            "nome":"DESAFIO GRANDIOSO"
+        }
+    },
+
+    {
+        "nome": "Darius",
+        "funcao": "Lutador",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/Darius_Icon_Hemorrhage.png",
+            "nome": "HEMORRAGIA"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/DariusCleave.png",
+            "nome":"DIZIMAR"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/DariusNoxianTacticsONH.png",
+            "nome":"ATAQUE MUTILADOR"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/DariusAxeGrabCone.png",
+            "nome":"APREENDER"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/DariusExecute.png",
+            "nome":"GUILHOTINA DE NOXUS"
+        }
+    },
+
+    {
+        "nome": "Xayah",
+        "funcao": "Atirador",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/XayahPassive.png",
+            "nome": "CORTES CERTEIROS"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/XayahQ.png",
+            "nome":"PUNHAIS DUPLOS"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/XayahW.png",
+            "nome":"PUNHAIS DUPLOS"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/XayahE.png",
+            "nome":"INVOCADORA DAS LÂMINAS"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/XayahE.png",
+            "nome":"TEMPESTADE DE PLUMAS"
+        }
+    },
+
+    {
+        "nome": "Fiddlesticks",
+        "funcao": "Mago",
+        "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb8fadbe73cf1c228/5e7a8d419da207172a2c439f/Ask_Riot_Fiddlesticks.jpg",
+        "passiva": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/passive/FiddleSticks_Passive.png",
+            "nome": "UM ESPANTALHO INOFENSIVO"
+        },
+        "habilidade_Q": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FiddleSticksQ.png",
+            "nome":"ATERRORIZAR"
+        },
+        "habilidade_W": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FiddleSticksW.png",
+            "nome":"COLHEITA FARTA"
+        },
+        "habilidade_E": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FiddleSticksE.png",
+            "nome":"CEIFAR"
+        },
+        "habilidade_R": {
+            "img": "https://ddragon.leagueoflegends.com/cdn/11.7.1/img/spell/FiddleSticksR.png",
+            "nome":"TEMPESTADE DE CORVOS"
+        }
+    }
+
+]
+
+
+
